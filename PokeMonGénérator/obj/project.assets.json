@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ClémentGuerin\\.nuget\\packages\\": {}
+    "C:\\Users\\louis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
       "projectName": "PokeMonGénérator.WPF",
-      "projectPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
-      "packagesPath": "C:\\Users\\ClémentGuerin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator\\obj\\",
+      "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
+      "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ClémentGuerin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
