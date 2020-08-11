@@ -4,7 +4,9 @@ using System.Text;
 
 namespace PokeMonGénérator.Services.Interface
 {
-    interface ITalentGeneratorService
+    public interface ITalentGeneratorService
     {
+        string GetById(int id);
+        string GetRandom(int id);
     }
 }
