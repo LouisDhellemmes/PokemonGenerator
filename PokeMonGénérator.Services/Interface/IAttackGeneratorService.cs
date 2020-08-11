@@ -11,6 +11,5 @@ namespace PokeMonGénérator.Services.Interface
         List<string> GetFourRandom();
         string GetOneRandomByType(string type);
         List<string> GetFourRandomByType(string type);
-
     }
 }
