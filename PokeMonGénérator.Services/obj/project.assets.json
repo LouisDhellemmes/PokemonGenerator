@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\louis\\.nuget\\packages\\": {}
+    "C:\\Users\\ClémentGuerin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
       "projectName": "PokeMonGénérator.Services",
-      "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
-      "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\obj\\",
+      "projectPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+      "packagesPath": "C:\\Users\\ClémentGuerin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ClémentGuerin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,7 +4,10 @@ using System.Text;
 
 namespace PokeMonGénérator.Services.Interface
 {
-    public interface INameGeneratorService
+    interface INameGeneratorService
     {
+        string GetById(int id);
+        string GetRandom();
+        List<string> GetSixRandom();
     }
 }
