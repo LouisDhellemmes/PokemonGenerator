@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PokeMonGénérator.Services.Interface
 {
-    interface INameGeneratorService
+    public interface INameGeneratorService
     {
         string GetById(int id);
         string GetRandom();
