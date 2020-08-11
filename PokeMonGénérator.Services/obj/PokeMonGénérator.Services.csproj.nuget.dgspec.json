@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {}
+    "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
+    "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+        "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
         "projectName": "PokeMonGénérator.Services",
-        "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+        "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
         "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator.Services\\obj\\",
+        "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",

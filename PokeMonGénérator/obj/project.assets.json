@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
       "projectName": "PokeMonGénérator.WPF",
-      "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
+      "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\PokeMonGénérator.WPF.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\PokemonGenerator\\PokeMonGénérator\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
