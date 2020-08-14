@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siEY7WV8i0YJRC52rfN2brXaKV+qFp29v5EobW0oC292WXHZtOFWSIhKsV9191NTrMuAge/VDbJ/Uju5upwJEg==",
+  "dgSpecHash": "al1M+wx45XKyF4rGh7SZk9AA2J9HlSaVIoFYbzwdavnQZXBvI3TT2Ii6NJ5S/VUuB7rCf/e2dG2ywtBG/nVtbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+  "projectFilePath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

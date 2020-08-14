@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMonGénérator.WPF", "PokeMonGénérator\PokeMonGénérator.WPF.csproj", "{DC3E8A3C-07E0-48D1-AAB6-1963C6DBC60C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokeMonGénérator.WPF", "PokeMonGénérator\PokeMonGénérator.WPF.csproj", "{DC3E8A3C-07E0-48D1-AAB6-1963C6DBC60C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMonGénérator.Services", "PokeMonGénérator.Services\PokeMonGénérator.Services.csproj", "{4D48152B-8986-488E-AECB-A610ACC8A194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokeMonGénérator.Services", "PokeMonGénérator.Services\PokeMonGénérator.Services.csproj", "{4D48152B-8986-488E-AECB-A610ACC8A194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMonGénérator.Test", "PokeMonGénérator.Test\PokeMonGénérator.Test.csproj", "{36100115-5C87-43E4-A86A-B3271EBA6DF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4D48152B-8986-488E-AECB-A610ACC8A194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D48152B-8986-488E-AECB-A610ACC8A194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D48152B-8986-488E-AECB-A610ACC8A194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36100115-5C87-43E4-A86A-B3271EBA6DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36100115-5C87-43E4-A86A-B3271EBA6DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36100115-5C87-43E4-A86A-B3271EBA6DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36100115-5C87-43E4-A86A-B3271EBA6DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

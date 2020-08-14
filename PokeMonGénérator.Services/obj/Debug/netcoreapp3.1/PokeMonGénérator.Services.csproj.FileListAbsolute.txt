@@ -1,0 +1,9 @@
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.csprojAssemblyReference.cache
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.AssemblyInfoInputs.cache
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.AssemblyInfo.cs
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.csproj.CoreCompileInputs.cache
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.deps.json
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.dll
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.dll
+C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
