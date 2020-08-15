@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj": {}
+    "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
+    "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+        "projectUniqueName": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
         "projectName": "PokeMonGénérator.Services",
-        "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
-        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\obj\\",
+        "projectPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj",
+        "packagesPath": "C:\\Users\\ClémentGuerin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ClémentGuerin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,17 +56,17 @@
         }
       }
     },
-    "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj": {
+    "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj",
+        "projectUniqueName": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj",
         "projectName": "PokeMonGénérator.Test",
-        "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj",
-        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Test\\obj\\",
+        "projectPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Test\\PokeMonGénérator.Test.csproj",
+        "packagesPath": "C:\\Users\\ClémentGuerin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ClémentGuerin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
-                "projectPath": "C:\\Users\\louis\\Documents\\1.pokemon\\git\\PokemonGenerator\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj"
+              "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj": {
+                "projectPath": "C:\\Users\\ClémentGuerin\\Downloads\\SRI_2019_2020\\Pokemon\\PokemonGenerator\\Github\\PokeMonGénérator.Services\\PokeMonGénérator.Services.csproj"
               }
             }
           }

@@ -1,0 +1,4 @@
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator\obj\Debug\netcoreapp3.1\PokeMonGénérator.WPF.csprojAssemblyReference.cache
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator\obj\Debug\netcoreapp3.1\PokeMonGénérator.WPF.AssemblyInfoInputs.cache
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator\obj\Debug\netcoreapp3.1\PokeMonGénérator.WPF.AssemblyInfo.cs
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator\obj\Debug\netcoreapp3.1\PokeMonGénérator.WPF.csproj.CoreCompileInputs.cache
