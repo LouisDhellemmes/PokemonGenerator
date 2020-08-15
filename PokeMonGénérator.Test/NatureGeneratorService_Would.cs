@@ -5,11 +5,11 @@ using PokeMonGénérator.Services;
 namespace PokeMonGénérator.Test
 {
     [TestFixture]
-    public class NatureGeneratorService_GetByIdWould
+    public class NatureGeneratorService_Would
     {
         NatureGeneratorService _natureGeneratorService;
         private static readonly string[] testList = { "Adamant", "Bashful", "Bold", "Brave", "Calm", "Careful", "Docile", "Gentle", "Hardy", "Hasty", "Impish", "Jolly", "Lax", "Lonely", "Mild", "Modest", "Naive", "Naughty", "Quiet ", "Quirky", "Rash", "Relaxed", "Sassy", "Serious", "Timid"};
-        
+      
         [SetUp]
         public void Setup()
         {
