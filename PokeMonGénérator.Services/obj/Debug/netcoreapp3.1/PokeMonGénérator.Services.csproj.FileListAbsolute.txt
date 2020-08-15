@@ -7,3 +7,12 @@ C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Servi
 C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
 C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.dll
 C:\Users\louis\Documents\1.pokemon\git\PokemonGenerator\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.deps.json
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.dll
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\bin\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.csprojAssemblyReference.cache
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.AssemblyInfoInputs.cache
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.AssemblyInfo.cs
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.csproj.CoreCompileInputs.cache
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.dll
+C:\Users\ClémentGuerin\Downloads\SRI_2019_2020\Pokemon\PokemonGenerator\Github\PokeMonGénérator.Services\obj\Debug\netcoreapp3.1\PokeMonGénérator.Services.pdb
