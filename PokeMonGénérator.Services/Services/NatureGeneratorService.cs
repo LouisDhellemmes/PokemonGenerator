@@ -21,7 +21,7 @@ namespace PokeMonGénérator.Services
             int randInt;
             Random rand = new Random();
 
-            randInt = rand.Next(1, 25);
+            randInt = rand.Next(0, 25);
             nature = GetById(randInt);
             return nature;
         }
